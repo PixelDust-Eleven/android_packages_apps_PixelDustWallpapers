@@ -7,6 +7,7 @@
 
 android_app {
     name: "PixelDustWallpapers",
+    system_ext_specific: true,
     sdk_version: "current",
     aaptflags: ["--auto-add-overlay"],
 }
