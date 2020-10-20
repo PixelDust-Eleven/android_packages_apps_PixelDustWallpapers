@@ -3,9 +3,8 @@
 
      SPDX-License-Identifier: GPL-2.0
 -->
-
 <resources>
-    <array name="partner_wallpapers" translatable="false">
+    <array name="wallpapers" translatable="false">
         <item>wallpaper_13</item>
         <item>wallpaper_12</item>
         <item>wallpaper_11</item>
